@@ -3,7 +3,7 @@
 
 - I’m currently learning **JS, Node, React**
 
-- 👨‍💻 All of my projects are available at [skultety.dev](skultety.dev)
+- 👨‍💻 All of my projects are available at [skultety.dev](www.skultety.dev)
 
 - 📫 How to reach me **samuel.skultety@outlook.sk**
 
