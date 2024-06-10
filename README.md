@@ -3,8 +3,6 @@
 
 Hi there! My name is Samuel and I'm a web developer in training, attempting to climb the elusive ladder of success in the tech industry 🧗‍♂️. I may be young (just 23) and still have a lot to learn 🤓, but I have a thirst for knowledge (and caffeine 🍵) and a desire to create awesome things with code 💻. I'm currently focusing on mastering JavaScript, React, and Node.js 💪, and am determined to one day reach the coveted level of "senior developer" (or at least pretend to know what I'm doing 🤥). If you need someone to help you build the next big thing 🚀 (or just someone to commiserate with about the struggles of coding 😩), don't hesitate to reach out 🤝. And if you happen to have any extra Red Bull lying around 🥤, I'm definitely not opposed to accepting it as a form of payment 💰.
 
-- 👨‍💻 All of my projects are available at [skultety.dev](https://www.skultety.dev/)
-
 - 📫 How to reach me **samuel.skultety@outlook.sk**
 
 <h3 align="left">Languages and Tools:</h3>
